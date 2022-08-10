@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "c:/Users/Kamau/Desktop/Datastructures/Data-structures",
-      "program": "c:/Users/Kamau/Desktop/Datastructures/Data-structures/build/Debug/outDebug",
+      "cwd": "c:/Users/Kamau/Desktop/Datastructures/Binary tree",
+      "program": "c:/Users/Kamau/Desktop/Datastructures/Binary tree/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
