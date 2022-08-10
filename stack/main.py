@@ -1,8 +1,5 @@
 # python implementation of stack
-# using list
-
-from traceback import print_stack
-
+# using lis
 
 stack = []
 
@@ -31,5 +28,4 @@ print(stack.pop())
 print(stack.pop())
 
 print('\nStack after elements are popped: ')
-print(stack)
 print(stack)
