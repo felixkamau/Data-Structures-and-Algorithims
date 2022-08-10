@@ -1,6 +1,9 @@
 # python implementation of stack
 # using list
 
+from traceback import print_stack
+
+
 stack = []
 
 # append() func to push
@@ -28,4 +31,5 @@ print(stack.pop())
 print(stack.pop())
 
 print('\nStack after elements are popped: ')
+print(stack)
 print(stack)
