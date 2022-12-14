@@ -7,9 +7,9 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "externalConsole": true,
-      "cwd": "c:/Users/Kamau/Desktop/Datastructures/Data-Structures-and-Algorithims/Linked-list",
-      "program": "c:/Users/Kamau/Desktop/Datastructures/Data-Structures-and-Algorithims/Linked-list/build/Debug/outDebug",
+      "externalConsole": false,
+      "cwd": "/workspaces/Data-Structures-and-Algorithims",
+      "program": "/workspaces/Data-Structures-and-Algorithims/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
